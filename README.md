@@ -1,2 +1,2 @@
-# kenny-learn-freeglut-OpenGL-
+# kenny-learn-freeglut-OpenGL
 学习freeglut OpenGL
